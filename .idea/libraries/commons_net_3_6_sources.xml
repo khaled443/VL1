@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-net-3.6-sources">
+    <CLASSES>
+      <root url="jar:///idea-IU-172.4343.14/commons-net-3.6/commons-net-examples-3.6.jar!/" />
+      <root url="jar:///idea-IU-172.4343.14/commons-net-3.6/commons-net-3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///idea-IU-172.4343.14/commons-net-3.6/commons-net-3.6-sources.jar!/" />
+    </SOURCES>
+    <excluded>
+      <root url="jar:///idea-IU-172.4343.14/commons-net-3.6/commons-net-3.6.jar!/" />
+    </excluded>
+  </library>
+</component>
